@@ -54,3 +54,12 @@ button {
     grid-gap: 20px;
     padding: 20px;
 }
+
+.button:hover,
+.operator:hover,
+.all-clear:hover,
+.equal-sign:hover,
+.decimal:hover,
+.number:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
